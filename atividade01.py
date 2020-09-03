@@ -64,6 +64,7 @@ def imprimirProdutos():
         )
 
 
+
 def retirarProduto():
     relatorioProdutos()
     produto = str(input('Digite o nome do produto que deseja retirar: ')).upper()
