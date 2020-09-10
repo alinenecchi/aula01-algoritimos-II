@@ -37,13 +37,6 @@ class Lista():
             print(aux.info)
             aux = aux.proximo
 
-    '''def inserirFim(self, valor):
-        if self.size == 0:
-            self.primeiro = self.ultimo = No(valor, None)
-        else:
-            self.ultimo.proximo = self.ultimo = No(valor, None)
-        self.size += 1'''
-
     def delInicio(self):
         if self.size == 1:
             self.primeiro = self.ultimo = None
