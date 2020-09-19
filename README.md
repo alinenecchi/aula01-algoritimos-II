@@ -14,3 +14,10 @@ Atividade 03 - Revisão Métodos e Listas duplamente encadeadas
 que possui uma função para inseriri elementos, uma para imprimir os 
 elementos na ordem que forem inseridos e uma função para imprimir os 
 elementos na ordem inversa a que foram inseridos."
+
+Aula 04 - Sem atividades, código reproduzido em aula.
+
+Atividade aula 05 - Pilhas
+• Construa agora um algoritmo para implementação de um Pilha. 
+Lembrando que na Pilha o último elemento adicionado, será o 
+primeiro elemento removido.
