@@ -22,7 +22,8 @@ Atividade aula 05 - Pilhas
 Lembrando que na Pilha o último elemento adicionado, será o 
 primeiro elemento removido.
 
-Atividade aula 05 - Tuplas e Dicionários
+Atividade aula 06 - Tuplas e Dicionários
+
 ▷Construa um algoritmo que possua uma tupla com os números escritos por extenso de “zero” a “nove”. 
 Peça ao usuário para digitar um nome de 0 a 9 e retorne a ele o número por extenso,
 sem usar estruturas condicionais (if e switch).
