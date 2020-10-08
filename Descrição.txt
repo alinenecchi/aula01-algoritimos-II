@@ -36,4 +36,6 @@ Atividade aula 07 - Tuplas e Dicionários
 ○Método que calcula a área do retângulo ( altura * largura) e retorna o resultado
 ○Método que imprime os valores dos atributos da classe.
 
+Atividade aula 08 - Herança
+▷Construa um algoritmo para implementar a classe Aluno que possui duas subclasses.
 
