@@ -42,4 +42,5 @@ Atividade aula 08 - Herança
 Atividade aula 09 - Encapsulamento
 ▷Implementar classes do diagrama proposto em aula, considerando os modificadores de cada atributo e método.
 
- 
+Atividade aula 10 - Polimorfismo
+▷Implementar classes do diagrama proposto em aula.
