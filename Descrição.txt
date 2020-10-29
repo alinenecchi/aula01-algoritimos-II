@@ -39,3 +39,7 @@ Atividade aula 07 - Tuplas e Dicionários
 Atividade aula 08 - Herança
 ▷Construa um algoritmo para implementar a classe Aluno que possui duas subclasses.
 
+Atividade aula 09 - Encapsulamento
+▷Implementar classes do diagrama proposto em aula, considerando os modificadores de cada atributo e método.
+
+ 
